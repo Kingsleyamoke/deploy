@@ -65,14 +65,14 @@
 
 	<input type = "submit" name = "signup-submit" value = "Sign Up" class = "btn btn-success">
 	<style>
-	.form-group{
+	/*.form-group{
 		height: 250px;
 		margin-top: 10px;
 		margin-left: 400px;
 		margin-right:400px;
 		border-radius: 20px;
 		background-color:#a3a375; 
-	/*	margin-bottom: 200px; */
+		margin-bottom: 200px; */
 	}
 	
 	</style>
